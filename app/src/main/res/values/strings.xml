@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">P09-GettingMyLocations</string>
+    <string name="tv1">Last known location when this Activity started:</string>
+    <string name="btn1">Start Detector</string>
+    <string name="btn2">Stop Detector</string>
+</resources>
